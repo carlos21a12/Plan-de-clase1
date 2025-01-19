@@ -1,0 +1,14 @@
+D:\CRUDGA3\CRUDGA3\bin\Debug\CRUDGA3.exe.config
+D:\CRUDGA3\CRUDGA3\bin\Debug\CRUDGA3.exe
+D:\CRUDGA3\CRUDGA3\bin\Debug\CRUDGA3.pdb
+D:\CRUDGA3\CRUDGA3\bin\Debug\CRUDGA3.xml
+D:\CRUDGA3\CRUDGA3\obj\Debug\CRUDGA3.vbproj.AssemblyReference.cache
+D:\CRUDGA3\CRUDGA3\obj\Debug\CRUDGA3.Resources.resources
+D:\CRUDGA3\CRUDGA3\obj\Debug\CRUDGA3.vbproj.GenerateResource.cache
+D:\CRUDGA3\CRUDGA3\obj\Debug\CRUDGA3.vbproj.CoreCompileInputs.cache
+D:\CRUDGA3\CRUDGA3\obj\Debug\CRUDGA3.exe
+D:\CRUDGA3\CRUDGA3\obj\Debug\CRUDGA3.xml
+D:\CRUDGA3\CRUDGA3\obj\Debug\CRUDGA3.pdb
+D:\CRUDGA3\CRUDGA3\obj\Debug\CRUDGA3.FormEmpleado.resources
+D:\CRUDGA3\CRUDGA3\obj\Debug\CRUDGA3.LOGIN.resources
+D:\CRUDGA3\CRUDGA3\obj\Debug\CRUDGA3.TablaEmpleado.resources
